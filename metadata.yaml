@@ -1,0 +1,31 @@
+_repo: The-Civilisation-of-the-Renaissance-in-Italy_2074
+contributor:
+  translator:
+    agent_name: Middlemore, S. G. C. (Samuel George Chetwynd)
+    alias: Middlemore, Samuel George Chetwynd
+    gutenberg_agent_id: '40312'
+    url: http://www.gutenberg.org/2009/agents/40312
+creator:
+  author:
+    agent_name: Burckhardt, Jacob
+    alias: Burckhardt, Jakob Christoph
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '813'
+    url: http://www.gutenberg.org/2009/agents/813
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Burckhardt
+description: ''
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renaissance -- Italy'
+- !lcc 'DG'
+- !lcsh 'Italy -- Civilization'
+title: The Civilisation of the Renaissance in Italy
+url: http://www.gutenberg.org/ebooks/2074
