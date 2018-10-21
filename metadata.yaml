@@ -1,5 +1,5 @@
 _repo: The-Civilisation-of-the-Renaissance-in-Italy_2074
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Middlemore, S. G. C. (Samuel George Chetwynd)
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Renaissance -- Italy'
 - !lcc 'DG'
 - !lcsh 'Italy -- Civilization'
+- GITenberg
 title: The Civilisation of the Renaissance in Italy
 url: http://www.gutenberg.org/ebooks/2074
